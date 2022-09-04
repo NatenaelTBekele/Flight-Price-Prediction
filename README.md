@@ -1,6 +1,5 @@
 # Flight-Price-Prediction-Case-Study
 ## Context and Problem
- - The objective of this project is to predict the price of a flight with a set of relevant flight details provided
  - The flight details have information related to flight timings, source and destination details, route details, stops in between, etc.
  - The dataset consists of about one year of information about various flights and their respective prices.
  

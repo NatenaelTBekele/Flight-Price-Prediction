@@ -1,4 +1,4 @@
-# Flight-Price-Prediction-Case-Study
+# Flight-Price-Prediction
 ## Context and Problem
  - The flight details have information related to flight timings, source and destination details, route details, stops in between, etc.
  - The dataset consists of about one year of information about various flights and their respective prices.
